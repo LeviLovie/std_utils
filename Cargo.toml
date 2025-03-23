@@ -1,5 +1,6 @@
 [package]
 name = "std_utils"
+license = "MIT"
 description = "Standard utilities for Rust"
 homepage = "https://github.com/LeviLovie/std_utils"
 repository = "https://github.com/LeviLovie/std_utils"
